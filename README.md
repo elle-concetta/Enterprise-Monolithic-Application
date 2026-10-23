@@ -33,12 +33,12 @@ The system supports three primary roles:
 
 | Module | Owner | Scope |
 | --- | --- | --- |
-| **1 — Identity, Users, and Roles** | Member 1 [Replace with Name] | Registration, login, user profiles, role-based access, account status, and access-controlled endpoints. Implement Spring Security with JWT or a suitable session-based approach. |
-| **2 — Course and Curriculum Management** | Member 2 [Replace with Name] | Course catalogue, categories, trainer assignment, learning objectives, prerequisites, course lifecycle, and course search. Store structured course information in the relational database. |
-| **3 — Learning Content and Delivery** | Member 3 [Replace with Name] | Modules, lessons, reading materials, links, attachment metadata, learner progress, and completion tracking. Store dynamic content metadata in MongoDB where appropriate. |
-| **4 — Enrolment and Assessment** | Member 4 [Replace with Name] | Enrolment, assessment creation, question banks, submissions, scoring, completion status, and learner progress reports. |
-| **5 — Reviews and Learner Feedback** | Member 5 [Replace with Name] | Ratings, written reviews, review moderation, course feedback, and course rating summaries. Enforce one review per eligible learner per course. |
-| **6 — Notifications and Reporting** | Member 6 [Replace with Name] | In-app notifications, enrolment and assessment alerts, course completion summaries, and administrative dashboard reports. |
+| **1 — [User Role]** | Elizabeth Amin (Fassler) | [Tasks] |
+| **2 — [User Role]** | Krishna Shivkumar | [Tasks] |
+| **3 — [User Role]** | Ethan Mouri | [Tasks] |
+| **4 — [User Role]** | Tushar Maradiya | [Tasks] |
+| **5 — [User Role]** | Daniel Oyasodun | [Tasks] |
+
 
 ## Mandatory Functional Requirements
 
