@@ -59,7 +59,7 @@ The system supports three primary roles:
 | --- | --- | --- |
 | **Frontend** | React, JavaScript or TypeScript | Routing, forms, dashboards, API calls, and state management. |
 | **Backend** | Java and Spring Boot | REST APIs, validation, business logic, and security. |
-| **Relational Data** | PostgreSQL or MySQL | Users, courses, enrolments, assessments, results, and reviews. |
+| **Relational Data** | MySQL | Users, courses, enrolments, assessments, results, and reviews. |
 | **Dynamic Data** | MongoDB | Flexible content metadata, notification payloads, and configurable question content where suitable. |
 | **Persistence** | Spring Data JPA, Spring Data MongoDB, and JDBC where appropriate | Relational and document persistence. |
 | **API Documentation** | OpenAPI / Swagger UI | Contract and endpoint documentation. |
