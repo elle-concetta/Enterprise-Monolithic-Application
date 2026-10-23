@@ -5,7 +5,6 @@ Learning Management System (LMS) with six independently developed functional mod
 
 A corporate training web application for managing trainers, learners, courses, learning content, enrolments, assessments, reviews, and notifications.
 
-**Recommended implementation:** Weeks 5–8  
 **Final demo:** Week 8  
 **Architecture:** Monolithic Spring Boot backend with six logical modules
 
@@ -76,6 +75,7 @@ The system supports three primary roles:
 ## Monolithic Architecture
 
 ![P2 monolithic LMS architecture](docs/Picture1.png)
+![P2 monolithic LMS architecture](docs/Picture2.png)
 
 *Figure 6 — P2 monolithic LMS architecture.*
 
